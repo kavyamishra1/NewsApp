@@ -1,0 +1,7 @@
+Route exact path="/business"><About /></Route>
+Route exact path="/entertainment"><About /></Route>
+Route exact path="/genral"><About /></Route>
+Route exact path="/health "><About /></Route>
+Route exact path="/science"><About /></Route>
+Route exact path="/sports "><About /></Route>
+Route exact path="/technology"><About /></Route>
